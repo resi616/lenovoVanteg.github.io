@@ -1,0 +1,75 @@
+body {
+  background-color: #ffebcd;
+  /* background-color: white; */
+  height: 400px;
+}
+div.image {
+  float: right;
+  padding: 5rem;
+}
+.hero {
+  padding: 5rem;
+}
+span {
+  color: red;
+}
+h2 {
+  font-size: xx-large;
+  padding: 12px;
+}
+h3 {
+  padding: 12px;
+  padding-left: 3.5rem;
+}
+p {
+  padding: 14px;
+  font-family: "Nunito", sans-serif;
+  padding-left: 3.5rem;
+}
+.starting a {
+  text-decoration: none;
+  margin-left: 80px;
+  padding: 12px;
+}
+.starting a h4 {
+  margin-left: 80px;
+  padding-left: 12px;
+  height: auto;
+  color: black;
+}
+.models {
+  margin-left: 120px;
+  padding-left: 1.3rem;
+}
+.slim-1 {
+  font-size: 20px;
+  margin-left: 60px;
+  padding-left: 12px;
+}
+.processor {
+  font-size: 19px;
+  padding-left: 9px;
+  margin-left: 80px;
+}
+.spekprosesor {
+  padding: 6px 1.8rem 9px 0.5rem;
+  padding-top: 6px;
+  padding-left: 7rem;
+  line-height: 17px;
+  font-size: 0.9rem;
+}
+.hz {
+  padding: 6px 1.8rem 9px 0.5rem;
+  padding-top: 6px;
+  padding-left: 7rem;
+  line-height: 2px;
+  font-size: 0.9rem;
+}
+
+.fitur {
+  padding-left: 3.4rem;
+}
+.table {
+  width: 90%;
+  margin-left: 60px;
+}
